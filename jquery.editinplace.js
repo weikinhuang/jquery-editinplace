@@ -1,6 +1,7 @@
-/*
+/*!
  * Edit in place plugin for jquery to allows for editing text on the page - jQuery plugin 0.3.0
- * Copyright (c) 2010 Wei Kin Huang
+ *
+ * Copyright (c) 2010 Wei Kin Huang (<a href="http://www.incrementbyone.com">Increment By One</a>)
  *
  * Dual licensed under the MIT and GPL licenses:
  * http://www.opensource.org/licenses/mit-license.php
